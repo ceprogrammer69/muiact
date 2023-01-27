@@ -44,7 +44,7 @@ export const Auth = () => {
         >
           <Typography variant='h2' padding={3} textAlign='center'>
             {/* Changing the Header Typography */}
-            {isSignup ? "Signup" : "Login"}
+            {isSignup ? "Signup Form" : "Login Form"}
           </Typography>
 
             {/*Showing name text field if isSignup  */}
