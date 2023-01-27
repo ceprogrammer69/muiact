@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/muiact/static/js/main.edc72f02.js",
+    "index.html": "/muiact/index.html",
+    "main.edc72f02.js.map": "/muiact/static/js/main.edc72f02.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.edc72f02.js"
+  ]
+}
